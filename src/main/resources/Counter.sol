@@ -8,7 +8,7 @@ contract Counter {
 
 
     //construtor
-    function constructor() public {
+    constructor() public {
         counter = 5;
     }
     
